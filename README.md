@@ -12,4 +12,4 @@ We applied 3 phases of financial analysis to determine if arbitrage opportunitie
 3) we analyzed data with statistics and visualizations by selecting periods in which to identify arbitrage
 
 
-The answers to the challenge are in the crypto_arbitrage.ipynb in the starter code folder
+The answers to the challenge are in the crypto_arbitrage.ipynb in the Starter_Code folder
