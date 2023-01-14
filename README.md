@@ -3,14 +3,6 @@ CU Fintech Bootcamp Challenge 3
 by Andrew Ryan Bader
 Due 12/21/22
 
-Purpose:
-
-
-
-
-# module5_challenge
-module 5 challenge Columbia Fintech Bootcamp
-
 # Purpose
 We considered artibrage opporutunites in Bitcoin and other crypto. Artibrage means to capitalize on simultaneous price dislocations in global markets. We will be using Pandas in this challenge. We  worked to sort historical trade data on Bitstamp and Coinbase
 
